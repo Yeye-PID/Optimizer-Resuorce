@@ -3,7 +3,7 @@
 # OPTIMIZAER RESOURES 🍃
 adalah script shell yang saya bikin Untuk mengoptimalkan semua sumber daya Perangkat And Aplikasi, Dengan Metode AM (Actvity Manager) 
 
-## EFEK YANG DI DAPAT AMTARA LAIN ❓️
+## EFEK YANG DI DAPAT ANTARA LAIN ❓️
 - Meningkatkan Performance sistem
 - Mengurangi lag di saat bermain game
 - Efisensi Multitasking
