@@ -14,7 +14,6 @@ Pengguna Sudah paham Tentang Besik Non root dan Modifikasi Shell scirpt
 
 ## PEMBUAT ❓️
 - Telegram : @Yeye_nat
-- Githib   : Yeye-PID
 - Support  : https://t.me/shdow95
 
 ## WRNING ⚠️⚠️
