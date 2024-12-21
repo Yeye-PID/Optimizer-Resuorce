@@ -1,0 +1,48 @@
+      [ Optimizer Resoures - Nonroot ]
+                   Author 
+     Telegram Yeye_nat | Github Yeye-PID
+                version : 1.0
+       ////////////////\\\\\\\\\\\\\\\\
+            install with > Brevent
+            
+            
+ Disclemoer shell :
+  
+- Scirpt shell ini saya bikin untuk mengoptimalkan pengguaan Sumber daya ,Battrey And Stabilisai System dengan menstopped Profile Aplikasi ,Mengubah Aplikasi menjadi idle And Clear Resuore heap aplikasi dengan memanfaatkan AM (activity manager), Dengan memanafaatkan AM (Activity Manager) Kita dapat Mengoptimalkan semua sumber daya yang sebelum nya terpakai sia-sia 
+
+Dengan Cara :
+- Menstopped semua Profile Aplikasi 
+- Memaksa Aplikasi Menjadi idle ( Bukan metode deviceidle Tapi Metode Activit Manager Jadi Amana Buat aplikasi Yang gak di list )
+- Mengurangi Jejak Memory dari Aplikasi ( Mencegah Potensi Kebocoran Memory )
+- Membersihaka informasi exit ( Memastikan tidak ada Proses resoure yang tertingal Dari proses aplikasi sebelumnya )
+
+Efek yang Didapat setelah Memakai shell sciprt :
+- Meningkatakan Perfornace Perngkat
+- Mengurangi Lag pada Game
+- Efisensi Multitasking
+- Menghemat Battrey
+
+Recomened :
+- Gaming
+- Multiasking
+
+Note :
+- shell script ini tidak meyebabkan Aplikasi mana pun Crash dan lag dikerenakan sudah saya susun seteliti mungkin agar tidak bedampak pada aplikasi manapun dill..
+
+Penanggung Jawab 100% By :
+- @Yeye_nat | Telegram
+- Yeye-PID   | Github
+
+Support : https://t.me/shdow95
+
+install :
+Ekstrak dulu zip ' ATB.zip ' Ke internal
+Lalu Jalankan Perintah down Here :
+rm -rf /data/local/tmp/* && cp /sdcard/shell-Yeye/main /data/local/tmp && chmod +x /data/local/tmp/main && /data/local/tmp/main
+
+uninstall : Reboot Your Phone !!
+
+Disclemoer Efek :
+- Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% dill..
+
+⚠️ Especially for those who want to use my script in your Module, please contact me & add credit @Yeye_nat
