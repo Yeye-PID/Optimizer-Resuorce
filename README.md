@@ -9,6 +9,10 @@ adalah script shell yang saya bikin Untuk mengoptimalkan semua sumber daya Peran
 - Efisensi Multitasking
 - Menghindari Memory yang menumpuk ( Kebocoran Memory )
 
+## Recomened ❓️
+- Gaming
+- Multiasking
+
 ## Persaratan ❓️
 Pengguna Sudah paham Tentang Besik Non root dan Modifikasi Shell scirpt
 
